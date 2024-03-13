@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>test</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'www.siacargo.com'</initValue>
+      <name>base_url</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>search_results</name>
+   <tag></tag>
+   <elementGuidId>d120b69f-4c39-4384-ba35-83baffef5811</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@class='FlightScheduleResultTable']/tbody[1]/tr[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.FlightScheduleResultTableContainer.table.FlightScheduleResultTable</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>
