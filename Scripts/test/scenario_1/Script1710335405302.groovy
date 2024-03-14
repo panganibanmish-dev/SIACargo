@@ -25,6 +25,10 @@ WebUI.maximizeWindow()
 
 WebUI.waitForPageLoad(10)
 
+// to close the accept cookies
+WebUI.click(findTestObject('Page_Siacargo/accept_cookies'))
+
+// verify the text for shipment
 WebUI.verifyElementVisible(findTestObject('Page_Siacargo/text_Shipment'))
 
 WebUI.closeBrowser()
